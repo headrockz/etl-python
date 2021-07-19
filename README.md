@@ -12,8 +12,10 @@ pip install -r requirements.txt
 ## Estrutura do projeto
 
 ```bash
+├── cleaning.ipynb
 ├── extract.ipynb
-├── ocorrencia_2010_200.csv
+├── manipulation.ipynb
+├── ocorrencia_2010_2000.csv
 ├── README.md
 └── requeriments.txt 
 ```
